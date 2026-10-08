@@ -20,3 +20,6 @@ against proof/Main.lean.
 - Another solver's proof of the same target was verified on
   conjectures.io first, on 7 October 2026. This proof was produced
   independently.
+
+## Citation
+Archived on Zenodo, 8 October 2026: https://doi.org/10.5281/zenodo.23248513
