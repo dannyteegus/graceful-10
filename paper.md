@@ -210,5 +210,3 @@ The whole argument is formalized in Lean 4 / Mathlib in `proof/Main.lean`, which
 - **Explicit labelings** are checked by `decide +kernel` on a Boolean tree-and-labeling checker.
   `native_decide` is not used.
 - **Coverage** (F1–F8) is proved by `omega` case splits that mirror §3–§4.
-
-Search scripts that found the cores and tables are in `search/` (`search/tf`, `search/tab`).
