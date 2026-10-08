@@ -9,6 +9,7 @@ https://onlinelibrary.wiley.com/doi/10.1155/jama/5826777
 ## Files
 - proof/Main.lean: the full Lean proof.
 - paper.md: the statement and the proof written out in prose.
+- paper.pdf: the same write-up as a typeset PDF.
 
 ## Checking it
 Run `conjectures verify` from the conjectures.io command-line tool
